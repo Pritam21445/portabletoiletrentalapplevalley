@@ -1,0 +1,45 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:large;">What does a long-term porta potty rental cost for a city park?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We offer very competitive porta potty rental prices for long-term municipal and civic contracts. Please contact us to discuss your specific needs and receive a customized quote.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I just need a 'one day porta potty rental' for a street fair. Can you do that?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Absolutely. We have extensive experience providing sanitation for single-day urban events like street fairs, markets, and festivals.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is the most common mistake event planners make in an urban setting?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Underestimating the number of units needed. Foot traffic and attendance at urban events are often higher than anticipated. It's always better to have one too many units than one too few.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Why should we choose Avalley Portable Toilet Rentals as our partner?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Because we understand the unique challenges and opportunities of an urban environment. We provide more than just toilets; we provide flexible infrastructure solutions that support commerce, public health, and a vibrant community life.</p>
+                <div class="callalooma mx-auto"><a href="tel:801-441-6223">Click Here To Call Us (801) 441-6223</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
